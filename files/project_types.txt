@@ -1,0 +1,6 @@
+beauty
+entertainment
+finance
+sports
+tech
+travel

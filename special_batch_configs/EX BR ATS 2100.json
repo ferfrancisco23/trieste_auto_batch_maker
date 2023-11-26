@@ -1,0 +1,12 @@
+{
+    "batch_url": "http://trieste.io/link_leads_batches/new/708",
+    "discard_previously_discovered": "on",
+    "min_trust_flow": "default",
+    "min_refdomains": "default",
+    "min_semrush_keyword_vol": "default",
+    "min_semrush_organic_traffic_UK": "default",
+    "min_semrush_organic_traffic_Global": "default",
+    "max_percentage_nofollow": "default",
+    "min_ahrefs_domain_rating_score": "default",
+    "min_ahrefs_global_traffic_score": "2100"
+}

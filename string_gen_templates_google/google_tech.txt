@@ -1,0 +1,100 @@
+blog 
+articles 
+blogger 
+reviews 
+news 
+inurl:
+intitle:
+blog:feed
+article:feed
+news:feed
+insights:feed
+2023:feed
+feature:feed
+latest:feed
+category:feed
+other:feed
+uncategorized:feed
+blog hasfeed:
+article hasfeed:
+news hasfeed:
+insights hasfeed:
+2023 hasfeed:
+feature hasfeed:
+latest hasfeed:
+category hasfeed:
+other hasfeed:
+uncategorized hasfeed:
+/blog/2023 
+/blog/category 
+ what you need to know site:com
+/blog 
+/tag 
+/category 
+/2022 
+/topic 
+/2023 
+/news 
+/articles 
+/blogs 
+/index.php 
+/post 
+/article 
+/uncategorized 
+/home 
+/archives 
+/en 
+/content 
+/featured 
+/features 
+/single-post 
+/wordpress 
+/posts 
+/reviews 
+/site 
+/wp 
+/editorials 
+/1 
+/apps 
+/magazine 
+/feature 
+/author 
+/advice 
+/blogroll 
+/blog/top 
+/blog/2022 
+/blog/post 
+/blog/page 
+/blog/page/1 
+/blog/page/2 
+/contact 
+/latest 
+/about 
+/about-me 
+/write-for-us 
+/guest-post 
+/blog/guest-post 
+/contributors 
+/guest-posts 
+/guest 
+/author/guest 
+/entertainment 
+/technology 
+/games 
+/gaming 
+/general 
+/video-games 
+/tag/technology 
+/tag/reviews 
+/tag/gaming 
+/tag/diy 
+/tag/tech 
+/tag/random 
+/tag/personal 
+/tag/uncategorized 
+/category/entertainment 
+/category/gaming 
+/category/fitness 
+/category/random 
+/category/personal 
+/category/uncategorized 

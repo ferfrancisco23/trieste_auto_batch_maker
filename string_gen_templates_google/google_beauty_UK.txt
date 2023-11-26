@@ -1,0 +1,80 @@
+site:UK blog 
+site:UK articles 
+site:UK blogger 
+site:UK reviews 
+site:UK news 
+site:UK/blog/2023 
+site:UK/blog/UKtegory 
+site:UK what you need to know 
+site:UK inurl:
+site:UK intitle:
+site:UK/blog 
+site:UK/tag 
+site:UK/UKtegory 
+site:UK/2022 
+site:UK/topic 
+site:UK/2023 
+site:UK/news 
+site:UK/articles 
+site:UK/blogs 
+site:UK/index.php 
+site:UK/post 
+site:UK/article 
+site:UK/unUKtegorized 
+site:UK/home 
+site:UK/archives 
+site:UK/en 
+site:UK/content 
+site:UK/featured 
+site:UK/features 
+site:UK/single-post 
+site:UK/wordpress 
+site:UK/posts 
+site:UK/reviews 
+site:UK/site 
+site:UK/wp 
+site:UK/editorials 
+site:UK/1 
+site:UK/apps 
+site:UK/magazine 
+site:UK/feature 
+site:UK/UKthor 
+site:UK/advice 
+site:UK/blogroll 
+site:UK/blog/top 
+site:UK/blog/2022 
+site:UK/blog/post 
+site:UK/blog/page 
+site:UK/blog/page/1 
+site:UK/blog/page/2 
+site:UK/contact 
+site:UK/latest 
+site:UK/about 
+site:UK/about-me 
+site:UK/write-for-us 
+site:UK/guest-post 
+site:UK/blog/guest-post 
+site:UK/contributors 
+site:UK/guest-posts 
+site:UK/guest 
+site:UK/UKthor/guest 
+site:UK/fashion 
+site:UK/lifestyle 
+site:UK/general 
+site:UK/beUKty 
+site:UK/tag/lifestyle 
+site:UK/tag/fashion 
+site:UK/tag/reviews 
+site:UK/tag/health 
+site:UK/tag/food 
+site:UK/tag/beUKty 
+site:UK/tag/random 
+site:UK/tag/personal 
+site:UK/tag/unUKtegorized 
+site:UK/UKtegory/lifestyle 
+site:UK/UKtegory/fashion 
+site:UK/UKtegory/health 
+site:UK/UKtegory/beUKty 
+site:UK/UKtegory/random 
+site:UK/UKtegory/personal 
+site:UK/UKtegory/unUKtegorized 

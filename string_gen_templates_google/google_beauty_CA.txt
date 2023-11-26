@@ -1,0 +1,250 @@
+<<keyword>> intitle:blog site:ca
+<<keyword>> intitle:news site:ca
+<<keyword>> intitle:articles site:ca
+<<keyword>> intitle:posts site:ca
+<<keyword>> intitle:tips site:ca
+<<keyword>> intitle:advice site:ca
+<<keyword>> intitle:feature site:ca
+<<keyword>> intitle:latest site:ca
+<<keyword>> intitle:2022 site:ca
+<<keyword>> intitle:2023 site:ca
+<<keyword>> intitle:trends site:ca
+<<keyword>> intitle:reviews site:ca
+<<keyword>> intitle:ideas site:ca
+<<keyword>> intitle:insights site:ca
+<<keyword>> intitle:opinion site:ca
+<<keyword>> intitle:magazine site:ca
+<<keyword>> intitle:headlines site:ca
+<<keyword>> intitle:guide site:ca
+<<keyword>> intitle:resources site:ca
+<<keyword>> intitle:editorials site:ca
+<<keyword>> intitle:about me site:ca
+<<keyword>> intitle:about us site:ca
+<<keyword>> intitle:write for us site:ca
+<<keyword>> intitle:submit site:ca
+<<keyword>> intitle:top news site:ca
+<<keyword>> intitle:today site:ca
+<<keyword>> intitle:featured site:ca
+<<keyword>> intitle:journal site:ca
+<<keyword>> intitle:how to site:ca
+<<keyword>> intitle:best site:ca
+<<keyword>> inurl:blog site:ca
+<<keyword>> inurl:news site:ca
+<<keyword>> inurl:articles site:ca
+<<keyword>> inurl:posts site:ca
+<<keyword>> inurl:tips site:ca
+<<keyword>> inurl:advice site:ca
+<<keyword>> inurl:feature site:ca
+<<keyword>> inurl:latest site:ca
+<<keyword>> inurl:2022 site:ca
+<<keyword>> inurl:2023 site:ca
+<<keyword>> inurl:trends site:ca
+<<keyword>> inurl:category site:ca
+<<keyword>> inurl:tag site:ca
+<<keyword>> inurl:insights site:ca
+<<keyword>> inurl:opinion site:ca
+<<keyword>> inurl:reviews site:ca
+<<keyword>> inurl:top site:ca
+<<keyword>> inurl:guide site:ca
+<<keyword>> inurl:resources site:ca
+<<keyword>> inurl:uncategorized site:ca
+<<keyword>> inurl:editorials site:ca
+<<keyword>> inurl:lifestyle site:ca
+<<keyword>> inurl:about me site:ca
+<<keyword>> inurl:about us site:ca
+<<keyword>> inurl:write for us site:ca
+<<keyword>> inurl:submit site:ca
+<<keyword>> inurl:general site:ca
+<<keyword>> inurl:journal site:ca
+<<keyword>> inurl:how to site:ca
+<<keyword>> inurl:best site:ca
+allintitle:<<keyword>> blog site:ca
+allintitle:<<keyword>> news site:ca
+allintitle:<<keyword>> articles site:ca
+allintitle:<<keyword>> posts site:ca
+allintitle:<<keyword>> tips site:ca
+allintitle:<<keyword>> advice site:ca
+allintitle:<<keyword>> feature site:ca
+allintitle:<<keyword>> latest site:ca
+allintitle:<<keyword>> 2022 site:ca
+allintitle:<<keyword>>2023 site:ca
+allintitle:<<keyword>> trends site:ca
+allintitle:<<keyword>> reviews site:ca
+allintitle:<<keyword>> ideas  site:ca
+allintitle:<<keyword>> insights site:ca
+allintitle:<<keyword>> opinion site:ca
+allintitle:<<keyword>> magazine site:ca
+allintitle:<<keyword>> guide site:ca
+allintitle:<<keyword>> editorials site:ca
+allintitle:<<keyword>> today site:ca
+allintitle:<<keyword>> how to site:ca
+allinurl:<<keyword>> blog site:ca
+allinurl:<<keyword>> news site:ca
+allinurl:<<keyword>> articles site:ca
+allinurl:<<keyword>> posts site:ca
+allinurl:<<keyword>> tips site:ca
+allinurl:<<keyword>> advice site:ca
+allinurl:<<keyword>> feature site:ca
+allinurl:<<keyword>> latest site:ca
+allinurl:<<keyword>> 2022 site:ca
+allinurl:<<keyword>> 2023 site:ca
+allinurl:<<keyword>> trends site:ca
+allinurl:<<keyword>> reviews site:ca
+allinurl:<<keyword>> ideas  site:ca
+allinurl:<<keyword>> insights site:ca
+allinurl:<<keyword>> opinion site:ca
+allinurl:<<keyword>> magazine site:ca
+allinurl:<<keyword>> guide site:ca
+allinurl:<<keyword>> editorials site:ca
+allinurl:<<keyword>> today site:ca
+allinurl:<<keyword>> how to site:ca
+inurl:about me intext:<<keyword>> site:ca
+intitle:about me intext:<<keyword>> site:ca
+<<keyword>> intitle:about me site:ca
+<<keyword>> inurl:about mesite:ca
+<<keyword>> inurl:about us intext:<<keyword>> site:ca
+<<keyword>> intitle:about us intext:<<keyword>> site:ca
+<<keyword>> intitle:about us site:ca
+<<keyword>> inurl: about us site:ca
+<<keyword>> intitle:about site:ca
+<<keyword>> inurl:about site:ca
+inurl:<<keyword>> site:ca
+intitle:<<keyword>> site:ca
+"/about-me" intext:<<keyword>> site:ca
+"/about-us" intext:<<keyword>> site:ca
+"/<<keyword>> blog" site:ca
+"/blog/<<keyword>>" site:ca
+site:ca/blog <<keyword>>
+site:ca/category/<<keyword>>
+site:ca/tag/<<keyword>>
+site:ca/about/ <<keyword>>
+site:ca/tips/ <<keyword>>
+site:ca/trends/ <<keyword>>
+site:ca/news/ <<keyword>>
+site:ca/2023/ <<keyword>>
+site:ca/2022/ <<keyword>>
+site:ca/advice/ <<keyword>>
+site:ca/guide/ <<keyword>>
+site:ca/post/ <<keyword>>
+site:ca/article/ <<keyword>>
+site:ca/featured/ <<keyword>>
+site:ca/features/ <<keyword>>
+site:ca/best/ <<keyword>>
+site:ca/latest/ <<keyword>>
+site:ca/magazine/ <<keyword>>
+site:ca/index/ <<keyword>>
+site:ca/lifestyle/ <<keyword>>
+site:ca/reviews/ <<keyword>>
+site:ca/uncategorized/ <<keyword>>
+site:ca/top/ <<keyword>>
+site:ca/how to/ <<keyword>>
+location:"Canada" <<keyword>> blog 
+location:"Canada" <<keyword>> news 
+location:"Canada" <<keyword>> articles 
+location:"Canada" <<keyword>> posts 
+location:"Canada" <<keyword>> tips 
+location:"Canada" <<keyword>> advice 
+location:"Canada" <<keyword>> feature 
+location:"Canada" <<keyword>> latest 
+location:"Canada" <<keyword>> 2022
+location:"Canada" <<keyword>> 2023
+location:"Canada" <<keyword>> trends 
+location:"Canada" <<keyword>> reviews 
+location:"Canada" <<keyword>> ideas 
+location:"Canada" <<keyword>> insights 
+location:"Canada" <<keyword>> opinion 
+location:"Canada" <<keyword>> magazine 
+location:"Canada" <<keyword>> headlines 
+location:"Canada" <<keyword>> guide 
+location:"Canada" <<keyword>> resources 
+location:"Canada" <<keyword>> editorials 
+location:"Canada" <<keyword>> intitle:about me
+location:"Canada" <<keyword>> intitle:about us
+location:"Canada" <<keyword>> intitle:contact
+location:"Canada" <<keyword>> intitle:office
+location:"Canada" <<keyword>> intitle:find us
+location:"Canada" <<keyword>> inurl:about me
+location:"Canada" <<keyword>> inurl:about us
+location:"Canada" <<keyword>> inurl:contact
+location:"Canada" <<keyword>> inurl:office
+location:"Canada" <<keyword>> inurl:find us
+<<keyword>> site:CA blog
+<<keyword>> site:CA articles
+<<keyword>> site:CA blogger
+<<keyword>> site:CA reviews
+<<keyword>> site:CA news
+<<keyword>> site:CA/blog/2023
+<<keyword>> site:CA/blog/category
+<<keyword>> site:CA what you need to know
+<<keyword>> site:CA inurl:
+<<keyword>> site:CA intitle:
+<<keyword>> site:CA/blog
+<<keyword>> site:CA/tag
+<<keyword>> site:CA/category
+<<keyword>> site:CA/2022
+<<keyword>> site:CA/topic
+<<keyword>> site:CA/2023
+<<keyword>> site:CA/news
+<<keyword>> site:CA/articles
+<<keyword>> site:CA/blogs
+<<keyword>> site:CA/index.php
+<<keyword>> site:CA/post
+<<keyword>> site:CA/article
+<<keyword>> site:CA/uncategorized
+<<keyword>> site:CA/home
+<<keyword>> site:CA/archives
+<<keyword>> site:CA/en
+<<keyword>> site:CA/content
+<<keyword>> site:CA/featured
+<<keyword>> site:CA/features
+<<keyword>> site:CA/single-post
+<<keyword>> site:CA/wordpress
+<<keyword>> site:CA/posts
+<<keyword>> site:CA/reviews
+<<keyword>> site:CA/site
+<<keyword>> site:CA/wp
+<<keyword>> site:CA/editorials
+<<keyword>> site:CA/1
+<<keyword>> site:CA/apps
+<<keyword>> site:CA/magazine
+<<keyword>> site:CA/feature
+<<keyword>> site:CA/author
+<<keyword>> site:CA/advice
+<<keyword>> site:CA/blogroll
+<<keyword>> site:CA/blog/top
+<<keyword>> site:CA/blog/2022
+<<keyword>> site:CA/blog/post
+<<keyword>> site:CA/blog/page
+<<keyword>> site:CA/blog/page/1
+<<keyword>> site:CA/blog/page/2
+<<keyword>> site:CA/contact
+<<keyword>> site:CA/latest
+<<keyword>> site:CA/about
+<<keyword>> site:CA/about-me
+<<keyword>> site:CA/write-for-us
+<<keyword>> site:CA/guest-post
+<<keyword>> site:CA/blog/guest-post
+<<keyword>> site:CA/contributors
+<<keyword>> site:CA/guest-posts
+<<keyword>> site:CA/guest
+<<keyword>> site:CA/CAthor/guest
+<<keyword>> site:CA/fashion
+<<keyword>> site:CA/lifestyle
+<<keyword>> site:CA/general
+<<keyword>> site:CA/beauty
+<<keyword>> site:CA/tag/lifestyle
+<<keyword>> site:CA/tag/fashion
+<<keyword>> site:CA/tag/reviews
+<<keyword>> site:CA/tag/health
+<<keyword>> site:CA/tag/food
+<<keyword>> site:CA/tag/beauty
+<<keyword>> site:CA/tag/random
+<<keyword>> site:CA/tag/personal
+<<keyword>> site:CA/tag/uncategorized
+<<keyword>> site:CA/category/lifestyle
+<<keyword>> site:CA/category/fashion
+<<keyword>> site:CA/category/health
+<<keyword>> site:CA/category/beauty
+<<keyword>> site:CA/category/random
+<<keyword>> site:CA/category/personal
+<<keyword>> site:CA/category/uncategorized

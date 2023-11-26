@@ -1,0 +1,32 @@
+{
+    "batch_url": "",
+    "discard_previously_discovered": "on",
+    "min_trust_flow": "default",
+    "min_refdomains": "default",
+    "min_semrush_keyword_vol": "default",
+    "min_semrush_organic_traffic_US": "default",
+    "min_semrush_organic_traffic_UK": "default",
+    "min_semrush_organic_traffic_Global": "default",
+    "max_percentage_nofollow": "default",
+    "min_ahrefs_domain_rating_score": "default",
+    "min_ahrefs_global_traffic_score": "default",
+    "min_host_trust_flow": "default",
+    "search_engine": "Google International"
+}
+
+Search engines:
+Google International
+Google Denmark
+Google France
+Google Italy
+Google Ireland
+Google Spain
+Google UK
+Google Canada
+Google Australia
+Google New Zealand
+Google Sweden
+Google Norway
+Google Finland
+Google Netherlands
+Baidu (China)

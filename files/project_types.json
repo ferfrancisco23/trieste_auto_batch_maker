@@ -1,0 +1,16 @@
+{
+    "beauty": "files/beauty.txt",
+    "entertainment": "files/entertainment.txt",
+    "finance": "files/finance.txt",
+    "sports": "files/sports.txt",
+    "tech": "files/tech.txt",
+    "travel": "files/travel.txt",
+    "fisglobal .co.uk": "files/fisglobal_uk_cctld.txt",
+    "weightwatchers CA": "files/WWCA.txt",
+    "weightwatchers CH": "files/weightwatchers_ch.txt",
+    "weightwatchers DE": "files/weightwatchers_de.txt",
+    "studocu tech AU": "files/studocu_tech_au.txt",
+    "studocu finance AU": "files/studocu_finance_au.txt",
+    "studocu tech DE": "files/studocu_tech_DE.txt",
+    "studocu finance DE": "files/studocu_finance_DE.txt"
+}

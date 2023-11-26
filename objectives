@@ -1,0 +1,16 @@
+*1. Remove unnecessary logs
+*2. Add code to allow adding username and password as environment variable
+*3. apply kagebunshin code
+*4. remove separate json file for batch template naming system
+*5. make sure you only need to copy paste keywords from google sheet, no need to delete any whitespace
+*6. apply name select where ever needed i.e batch scraper
+*7. incorporate batch scraper script
+*8. Add batch scrape function
+*9. change name to Trieste Automator
+*10. change function selector from hardtype commands to select using up and down keys + enter
+*10.1 (optional) add ascii art
+11. (optional) Compile for Mac Catalina OS
+12. (optional) add batch scraper pagination, function set as delimitation for now
+12. add google contact form scraper script function
+13. allow script to read batch settings configuration json files
+14. add batch scraper pagination
